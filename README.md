@@ -1,5 +1,6 @@
-NOT ALL CODE IS MY OWN!
-Christopher Cascioli wrote the starter code, comments should clarify.
+NOT ALL CODE IS MY OWN!  
+Chris Cascioli provided much of the starter code and files like main,window,pathhelper and simpleshader!  
+The rest of the code is my own  
 ![D3D](https://github.com/user-attachments/assets/7c9424cc-f8e0-44ec-9058-c167080dce32)  
 Basic Controls:  
 WASD - Moves the camera location  
